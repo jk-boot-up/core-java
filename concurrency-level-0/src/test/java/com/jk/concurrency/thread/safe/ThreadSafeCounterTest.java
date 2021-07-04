@@ -17,7 +17,7 @@ import java.util.stream.IntStream;
 
 import static org.junit.Assert.assertEquals;
 
-public class ThreadSafeCounterIntegrationTest {
+public class ThreadSafeCounterTest {
 
     @Test
     public void threadSafeCounterWithIncrement_1() throws InterruptedException {
